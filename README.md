@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DatesPicker
+- 👀 I’m interested in networking
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
